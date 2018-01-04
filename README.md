@@ -1,6 +1,7 @@
 简介
 -------------------------------
-> Go Out of the novice Village   *(Go走出新手村)*
+#### Go Out of the novice Village   *(Go走出新手村)*
+
 > 旨在帮助go新手玩家走出新手村,更加友好的学习go
 
 ![](GoOOTVN.png)
