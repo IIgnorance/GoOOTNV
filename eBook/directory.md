@@ -14,5 +14,8 @@ This is official strategy for new gopher
  - 2.3
  
 ### 第二部分：新手地图
+- 第三章：新手开服
+ - 3.1 [前言](3.1.md)
+ - 3.2 [](3.2.md)
 
 
