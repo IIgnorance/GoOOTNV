@@ -3,9 +3,10 @@
 #### Go Out of the novice Village   *(Go走出新手村)*
 
 > 旨在帮助go新手玩家走出新手村,更加友好的学习go
+> 相信看到这篇文章的都是准备拥抱go的，为什么要学习go语言----Go是最好的语言
 
-![](GoOOTVN.png)
-------------------
+![](GoOOTVN.png =200x200)
+
 新手村5大板块
 ---------------------
 
@@ -34,8 +35,7 @@
 
 * 2018/1/4 倡议并得到了大家的积极响应，成立新手村
 
-## Inspire By LCTT
+##开始阅读
 
-感谢 Linux 中国 的 [LCTT 项目](https://github.com/LCTT/TranslateProject)，此项目是 LCTT 项目在 Go 领域的一个实现！
-
+[目录](eBook/directory.md)
 
