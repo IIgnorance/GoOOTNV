@@ -7,10 +7,8 @@
 
 ![](GoOOTVN.png)
 
-新手村5大板块
+新手村
 ------------------------
-
-### [新生手册](eBook/directory.md)
 
 ### [新手地图](eBook/directory.md)
 > 新手该选择哪些书本阅读
